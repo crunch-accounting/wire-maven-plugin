@@ -9,7 +9,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <wire-java-generator.version>3.6.1</wire-java-generator.version>
+        <square.wire.version>3.6.1</square.wire.version>
     </properties>
 
     <dependencies>
@@ -31,12 +31,12 @@
         <dependency>
             <groupId>com.squareup.wire</groupId>
             <artifactId>wire-compiler</artifactId>
-            <version>${wire-java-generator.version}</version>
+            <version>${square.wire.version}</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.wire</groupId>
             <artifactId>wire-java-generator</artifactId>
-            <version>${wire-java-generator.version}</version>
+            <version>${square.wire.version}</version>
         </dependency>
     </dependencies>
 
