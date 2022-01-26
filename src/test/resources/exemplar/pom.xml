@@ -52,9 +52,9 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>com.squareup.wire</groupId>
+        <groupId>uk.co.crunch</groupId>
         <artifactId>wire-maven-plugin</artifactId>
-        <version>${wire.version}</version>
+        <version>4.0.0</version>
         <executions>
           <execution>
             <phase>generate-sources</phase>
