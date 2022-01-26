@@ -1,4 +1,4 @@
-package com.squareup.wire.mojo;
+package uk.co.crunch.platform.maven;
 
 import com.google.common.base.Stopwatch;
 import com.google.common.io.Closer;
